@@ -1,0 +1,11 @@
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.exe
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.deps.json
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.runtimeconfig.json
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.runtimeconfig.dev.json
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.dll
+C:\Users\sethm\source\repos\NewsApi\NewsApi\bin\Debug\netcoreapp3.1\NewsApi.pdb
+C:\Users\sethm\source\repos\NewsApi\NewsApi\obj\Debug\netcoreapp3.1\NewsApi.csprojAssemblyReference.cache
+C:\Users\sethm\source\repos\NewsApi\NewsApi\obj\Debug\netcoreapp3.1\NewsApi.AssemblyInfoInputs.cache
+C:\Users\sethm\source\repos\NewsApi\NewsApi\obj\Debug\netcoreapp3.1\NewsApi.AssemblyInfo.cs
+C:\Users\sethm\source\repos\NewsApi\NewsApi\obj\Debug\netcoreapp3.1\NewsApi.dll
+C:\Users\sethm\source\repos\NewsApi\NewsApi\obj\Debug\netcoreapp3.1\NewsApi.pdb
